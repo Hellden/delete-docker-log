@@ -48,7 +48,7 @@
                          .=-+:::*:.   ...-*%#*+========+*#%%+:...    ..*::-=-.
                           ..*++:.                                      ..-:.
 
-Script in golang for DELETE log in folder container.
+Golang script to delete a container's log file.
 
 First step : build project for OS ARCH LINUX-> go build.
 Second step : excute file procject build. Rename file is possible.
