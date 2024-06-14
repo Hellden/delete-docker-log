@@ -51,7 +51,7 @@
 Golang script to delete a container's log file.
 
 First step : build project for OS ARCH LINUX-> go build.
-Second step : excute file procject build. Rename file is possible.
+Second step : excute file project build. Rename file is possible.
 
 Run with crontab for automation.
 

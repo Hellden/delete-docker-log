@@ -75,6 +75,6 @@ func main() {
 	}
 
 	deletelog.DeleteLog(pathLogContainre)
-	// fmt.Println("ID container :", containerID)
+
 	fmt.Printf("Log path : %s", pathLogContainre)
 }
