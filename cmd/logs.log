@@ -1,0 +1,5 @@
+ERROR: 2024/06/14 13:51:46 remove '/var/lib/docker/containers/89327ba09c1e3d2dc44debdb9ccd27dfe89ecdd2473b1ef7e0b0e8f94ac8e1b8/89327ba09c1e3d2dc44debdb9ccd27dfe89ecdd2473b1ef7e0b0e8f94ac8e1b8-json.log': no such file or directory
+INFO: 2024/06/14 13:51:46 Remove file is ok !
+ERROR: 2024/06/14 13:53:56 remove '/var/lib/docker/containers/89327ba09c1e3d2dc44debdb9ccd27dfe89ecdd2473b1ef7e0b0e8f94ac8e1b8/89327ba09c1e3d2dc44debdb9ccd27dfe89ecdd2473b1ef7e0b0e8f94ac8e1b8-json.log': no such file or directory
+ERROR: 2024/06/14 14:10:07 remove '/var/lib/docker/containers/89327ba09c1e3d2dc44debdb9ccd27dfe89ecdd2473b1ef7e0b0e8f94ac8e1b8/89327ba09c1e3d2dc44debdb9ccd27dfe89ecdd2473b1ef7e0b0e8f94ac8e1b8-json.log': no such file or directory
+ERROR: 2024/06/14 14:10:38 remove '/var/lib/docker/containers/89327ba09c1e3d2dc44debdb9ccd27dfe89ecdd2473b1ef7e0b0e8f94ac8e1b8/89327ba09c1e3d2dc44debdb9ccd27dfe89ecdd2473b1ef7e0b0e8f94ac8e1b8-json.log': no such file or directory
